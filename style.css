@@ -106,3 +106,7 @@ main{
 .details:hover{
     color: black;
 }
+
+.details:hover p{
+    transform: scale(1.4);
+}
